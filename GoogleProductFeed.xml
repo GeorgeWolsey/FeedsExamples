@@ -11,7 +11,7 @@
 			<g:id>36924</g:id>
 			<g:condition>new</g:condition>
 			<g:price>1090 NOK</g:price>
-			<g:availability>Out of stock</g:availability>
+			<g:availability>in stock</g:availability>
 			<g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image%20-1092521828.Jpeg</g:image_link>
 			<g:gtin>7330060203916</g:gtin>
 			<g:brand>Supra Cables</g:brand>
@@ -28,7 +28,7 @@
 			<g:id>50141</g:id>
 			<g:condition>new</g:condition>
 			<g:price>598 NOK</g:price>
-			<g:availability>Out of stock</g:availability>
+			<g:availability>in stock</g:availability>
 			<g:image_link>https://njal.no/Media/Cache/Images/6/6/WEB_Image%201095667301.Jpeg</g:image_link>
 			<g:gtin>4004005300666                 </g:gtin>
 			<g:brand>Schwaiger GmbH</g:brand>
@@ -45,7 +45,7 @@
 			<g:id>170080</g:id>
 			<g:condition>new</g:condition>
 			<g:price>5240 NOK</g:price>
-			<g:availability>in stock</g:availability>
+			<g:availability>Out of stock</g:availability>
 			<g:image_link>https://njal.no/Media/Cache/Images/2/3/WEB_Image%20455898483.Jpeg</g:image_link>
 			<g:gtin>4010243037608</g:gtin>
 			<g:brand>Canton</g:brand>
@@ -62,7 +62,7 @@
 			<g:id>170082</g:id>
 			<g:condition>new</g:condition>
 			<g:price>3590 NOK</g:price>
-			<g:availability>in stock</g:availability>
+			<g:availability>Out of stock</g:availability>
 			<g:image_link>https://njal.no/Media/Cache/Images/2/4/WEB_Image%20-1480467487.Jpeg</g:image_link>
 			<g:gtin>4010243037615</g:gtin>
 			<g:brand>Canton</g:brand>
