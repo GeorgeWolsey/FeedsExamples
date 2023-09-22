@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+	<channel>
+		<title>Sivilingeniør Njål Hansson AS</title>
+		<link>https://njal.no</link>
+		<description>Google Merchant Center product feed</description>
+		<item>
+			<title>Supra USB A-B 12m USB 2.0 A-B</title>
+			<link>https://njal.no/supra-cables/36924/supra-usb-a-b-12m-usb-20-a-b</link>
+			<description />
+			<g:id>36924</g:id>
+			<g:condition>new</g:condition>
+			<g:price>1090 NOK</g:price>
+			<g:availability>Out of stock</g:availability>
+			<g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image%20-1092521828.Jpeg</g:image_link>
+			<g:gtin>7330060203916</g:gtin>
+			<g:brand>Supra Cables</g:brand>
+			<g:product_type>Kabel &gt; USB &gt; Supra</g:product_type>
+			<g:shipping>
+				<g:price>0 NOK</g:price>
+				<g:country />
+			</g:shipping>
+		</item>
+		<item>
+			<title>Schwaiger aktiv antenne, DTA 3000 Bordantenne for inne og utendørs bruk.</title>
+			<link>https://njal.no/schwaiger-gmbh/50141/schwaiger-aktiv-antenne-dta-3000-bordantenne-for-inne-og-utend%c3%b8rs-bruk</link>
+			<description />
+			<g:id>50141</g:id>
+			<g:condition>new</g:condition>
+			<g:price>598 NOK</g:price>
+			<g:availability>Out of stock</g:availability>
+			<g:image_link>https://njal.no/Media/Cache/Images/6/6/WEB_Image%201095667301.Jpeg</g:image_link>
+			<g:gtin>4004005300666                 </g:gtin>
+			<g:brand>Schwaiger GmbH</g:brand>
+			<g:product_type>Antenner &gt; Bord antenner &gt; Schwaiger</g:product_type>
+			<g:shipping>
+				<g:price>0 NOK</g:price>
+				<g:country />
+			</g:shipping>
+		</item>
+		<item>
+			<title>Canton høyttaler InWall 949 Innfellbare vegghøyttalere (Pris pr par)</title>
+			<link>https://njal.no/canton/170080/canton-h%c3%b8yttaler-inwall-949-innfellbare-veggh%c3%b8yttalere-pris-pr-par</link>
+			<description />
+			<g:id>170080</g:id>
+			<g:condition>new</g:condition>
+			<g:price>5240 NOK</g:price>
+			<g:availability>in stock</g:availability>
+			<g:image_link>https://njal.no/Media/Cache/Images/2/3/WEB_Image%20455898483.Jpeg</g:image_link>
+			<g:gtin>4010243037608</g:gtin>
+			<g:brand>Canton</g:brand>
+			<g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
+			<g:shipping>
+				<g:price>0 NOK</g:price>
+				<g:country />
+			</g:shipping>
+		</item>
+		<item>
+			<title>Canton høyttaler InWall 949 LCR Innfellbar vegghøyttaler (pris pr stk)</title>
+			<link>https://njal.no/canton/170082/canton-h%c3%b8yttaler-inwall-949-lcr-innfellbar-veggh%c3%b8yttaler-pris-pr-stk</link>
+			<description />
+			<g:id>170082</g:id>
+			<g:condition>new</g:condition>
+			<g:price>3590 NOK</g:price>
+			<g:availability>in stock</g:availability>
+			<g:image_link>https://njal.no/Media/Cache/Images/2/4/WEB_Image%20-1480467487.Jpeg</g:image_link>
+			<g:gtin>4010243037615</g:gtin>
+			<g:brand>Canton</g:brand>
+			<g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
+			<g:shipping>
+				<g:price>0 NOK</g:price>
+				<g:country />
+			</g:shipping>
+		</item>
+		<item>
+			<title>Supra Sublink XLR 5M - hvit</title>
+			<link>https://njal.no/supra-cables/36567/supra-sublink-xlr-5m-hvit</link>
+			<description>
+				.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+				.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
+				.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+
+
+
+				5 METER SUBLINK BALANSERT XLR KABEL - HVIT
+			</description>
+			<g:id>36567</g:id>
+			<g:condition>new</g:condition>
+			<g:price>625 NOK</g:price>
+			<g:availability>Out of stock</g:availability>
+			<g:image_link>https://njal.no/Media/Cache/Images/2/5/WEB_Image_36671_165059834_plid_26985.Jpeg</g:image_link>
+			<g:gtin>7330060204463</g:gtin>
+			<g:brand>Supra Cables</g:brand>
+			<g:product_type>Kabel &gt; Balansert &gt; Supra</g:product_type>
+			<g:shipping>
+				<g:price>0 NOK</g:price>
+				<g:country />
+			</g:shipping>
+		</item>
+	</channel>
+</rss>
