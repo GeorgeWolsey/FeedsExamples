@@ -5,97 +5,619 @@
 		<link>https://njal.no</link>
 		<description>Google Merchant Center product feed</description>
 		<item>
-			<title>Supra USB A-B 12m USB 2.0 A-B</title>
-			<link>https://njal.no/supra-cables/36924/supra-usb-a-b-12m-usb-20-a-b</link>
-			<description />
-			<g:id>36924</g:id>
-			<g:condition>new</g:condition>
-			<g:price>1090 NOK</g:price>
-			<g:availability>in stock</g:availability>
-			<g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image%20-1092521828.Jpeg</g:image_link>
-			<g:gtin>7330060203916</g:gtin>
-			<g:brand>Supra Cables</g:brand>
-			<g:product_type>Kabel &gt; USB &gt; Supra</g:product_type>
-			<g:shipping>
-				<g:price>0 NOK</g:price>
-				<g:country />
-			</g:shipping>
-		</item>
-		<item>
-			<title>Schwaiger aktiv antenne, DTA 3000 Bordantenne for inne og utendørs bruk.</title>
-			<link>https://njal.no/schwaiger-gmbh/50141/schwaiger-aktiv-antenne-dta-3000-bordantenne-for-inne-og-utend%c3%b8rs-bruk</link>
-			<description />
-			<g:id>50141</g:id>
-			<g:condition>new</g:condition>
-			<g:price>598 NOK</g:price>
-			<g:availability>in stock</g:availability>
-			<g:image_link>https://njal.no/Media/Cache/Images/6/6/WEB_Image%201095667301.Jpeg</g:image_link>
-			<g:gtin>4004005300666                 </g:gtin>
-			<g:brand>Schwaiger GmbH</g:brand>
-			<g:product_type>Antenner &gt; Bord antenner &gt; Schwaiger</g:product_type>
-			<g:shipping>
-				<g:price>0 NOK</g:price>
-				<g:country />
-			</g:shipping>
-		</item>
-		<item>
-			<title>Canton høyttaler InWall 949 Innfellbare vegghøyttalere (Pris pr par)</title>
-			<link>https://njal.no/canton/170080/canton-h%c3%b8yttaler-inwall-949-innfellbare-veggh%c3%b8yttalere-pris-pr-par</link>
-			<description />
-			<g:id>170080</g:id>
-			<g:condition>new</g:condition>
-			<g:price>5240 NOK</g:price>
-			<g:availability>Out of stock</g:availability>
-			<g:image_link>https://njal.no/Media/Cache/Images/2/3/WEB_Image%20455898483.Jpeg</g:image_link>
-			<g:gtin>4010243037608</g:gtin>
-			<g:brand>Canton</g:brand>
-			<g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
-			<g:shipping>
-				<g:price>0 NOK</g:price>
-				<g:country />
-			</g:shipping>
-		</item>
-		<item>
-			<title>Canton høyttaler InWall 949 LCR Innfellbar vegghøyttaler (pris pr stk)</title>
-			<link>https://njal.no/canton/170082/canton-h%c3%b8yttaler-inwall-949-lcr-innfellbar-veggh%c3%b8yttaler-pris-pr-stk</link>
-			<description />
-			<g:id>170082</g:id>
-			<g:condition>new</g:condition>
-			<g:price>3590 NOK</g:price>
-			<g:availability>Out of stock</g:availability>
-			<g:image_link>https://njal.no/Media/Cache/Images/2/4/WEB_Image%20-1480467487.Jpeg</g:image_link>
-			<g:gtin>4010243037615</g:gtin>
-			<g:brand>Canton</g:brand>
-			<g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
-			<g:shipping>
-				<g:price>0 NOK</g:price>
-				<g:country />
-			</g:shipping>
-		</item>
-		<item>
-			<title>Supra Sublink XLR 5M - hvit</title>
-			<link>https://njal.no/supra-cables/36567/supra-sublink-xlr-5m-hvit</link>
-			<description>
-				.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
-				.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
-				.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+      <title>Supra USB A-B 12m USB 2.0 A-B</title>
+      <link>https://njal.no/supra-cables/36924/supra-usb-a-b-12m-usb-20-a-b</link>
+      <description />
+      <g:id>36924</g:id>
+      <g:condition>new</g:condition>
+      <g:price>1090 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image%20-1092521828.Jpeg</g:image_link>
+      <g:gtin>7330060203916</g:gtin>
+      <g:brand>Supra Cables</g:brand>
+      <g:product_type>Kabel &gt; USB &gt; Supra</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Schwaiger aktiv antenne, DTA 3000 Bordantenne for inne og utendørs bruk.</title>
+      <link>https://njal.no/schwaiger-gmbh/50141/schwaiger-aktiv-antenne-dta-3000-bordantenne-for-inne-og-utend%c3%b8rs-bruk</link>
+      <description />
+      <g:id>50141</g:id>
+      <g:condition>new</g:condition>
+      <g:price>598 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/6/6/WEB_Image%201095667301.Jpeg</g:image_link>
+      <g:gtin>4004005300666                 </g:gtin>
+      <g:brand>Schwaiger GmbH</g:brand>
+      <g:product_type>Antenner &gt; Bord antenner &gt; Schwaiger</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton høyttaler InWall 949 Innfellbare vegghøyttalere (Pris pr par)</title>
+      <link>https://njal.no/canton/170080/canton-h%c3%b8yttaler-inwall-949-innfellbare-veggh%c3%b8yttalere-pris-pr-par</link>
+      <description />
+      <g:id>170080</g:id>
+      <g:condition>new</g:condition>
+      <g:price>5240 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/3/WEB_Image%20455898483.Jpeg</g:image_link>
+      <g:gtin>4010243037608</g:gtin>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton høyttaler InWall 949 LCR Innfellbar vegghøyttaler (pris pr stk)</title>
+      <link>https://njal.no/canton/170082/canton-h%c3%b8yttaler-inwall-949-lcr-innfellbar-veggh%c3%b8yttaler-pris-pr-stk</link>
+      <description />
+      <g:id>170082</g:id>
+      <g:condition>new</g:condition>
+      <g:price>3590 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/4/WEB_Image%20-1480467487.Jpeg</g:image_link>
+      <g:gtin>4010243037615</g:gtin>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Supra Sublink XLR-XLR 5M - hvit</title>
+      <link>https://njal.no/supra-cables/36567/supra-sublink-xlr-xlr-5m-hvit</link>
+      <description>.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+			.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
+			.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+		
+	
+	
+		5 METER SUBLINK BALANSERT XLR KABEL - HVIT</description>
+      <g:id>36567</g:id>
+      <g:condition>new</g:condition>
+      <g:price>625 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/5/WEB_Image_36671_165059834_plid_26985.Jpeg</g:image_link>
+      <g:gtin>7330060204463</g:gtin>
+      <g:brand>Supra Cables</g:brand>
+      <g:product_type>Kabel &gt; Balansert &gt; Supra</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Schwaiger Vegg/mastefeste Kit MAB 3000 Rustfritt for vegg/mast</title>
+      <link>https://njal.no/schwaiger-gmbh/50143/schwaiger-vegg-mastefeste-kit-mab-3000-rustfritt-for-vegg-mast</link>
+      <description />
+      <g:id>50143</g:id>
+      <g:condition>new</g:condition>
+      <g:price>149 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/1/7/WEB_Image%20583120684.Jpeg</g:image_link>
+      <g:gtin>4004005300673</g:gtin>
+      <g:brand>Schwaiger GmbH</g:brand>
+      <g:product_type>Antenner &gt; Tilbehør antenner &gt; Schwaiger</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Yamaha mikser MG12 12-kanals mikser</title>
+      <link>https://njal.no/yamaha/135078/yamaha-mikser-mg12-12-kanals-mikser</link>
+      <description />
+      <g:id>135078</g:id>
+      <g:condition>new</g:condition>
+      <g:price>4949 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/8/WEB_Image_yamaha-mg12-mikser_-1112881556_plid_26998.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Yamaha</g:brand>
+      <g:product_type>PA Installasjon &gt; Miksere &gt; Yamaha</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton fjernkontroll DM systemer. For: DM 50, 55, 75, 100, 9, 900 og 90.3</title>
+      <link>https://njal.no/canton/198984/canton-fjernkontroll-dm-systemer-for-dm-50-55-75-100-9-900-og-903</link>
+      <description />
+      <g:id>198984</g:id>
+      <g:condition>new</g:condition>
+      <g:price>950 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/8/WEB_Image_fjernkontroll_canton_dm_-320418129_plid_27008.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Lydplanke &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Grandview Elegant 220" Elektrisk lerret - Somfy motor.</title>
+      <link>https://njal.no/grandview-screens/148237/grandview-elegant-220-elektrisk-lerret-somfy-motor</link>
+      <description>Lerret til større saler. 220" Grandview Elegant kommer med en stillegående Somfy motor. Dette lerret har opp/ned bryter og ferdig terminert strømkabel på venstre side. Lerretet passer for større saler og aulaer. For styring av dette lerretet se under tilbehør, vare 148499 og 148500.</description>
+      <g:id>148237</g:id>
+      <g:condition>new</g:condition>
+      <g:price>23990 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/9/WEB_Image_gw_elegant1_mo_-114594524_plid_27019.Jpeg</g:image_link>
+      <g:gtin>7036491482370</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Motorisert 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>76 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>SMS Projektor CL V350-450 A/S 350-450 mm, med brakett</title>
+      <link>https://njal.no/sms-smart-media-solutions/146552/sms-projektor-cl-v350-450-a-s-350-450-mm-med-brakett</link>
+      <description>.csC583D0C8{text-align:left;text-indent:0pt;margin:12pt 0pt 12pt 0pt}
+			.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
+			.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+		
+	
+	Ta projektoren til nye høyder. Maks 12 kg projektor.&lt;?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /&gt;SMS Projektor CL V er en uttrekkbar projektorarm med brakett. Elegant, funksjonell og stabil. Det er enkelt å justere lengden og vinkelen på braketten. SMS Projektor CL V holder projektoren din opp ned – den beste måten å få mest mulig ut av projektoren. Enkel å installere, enkel å justere og lett å like. SMS Unislide er inkludert i pakken.Versjon sikrer en attraktiv installasjon. Et smart innvendig takdeksel kan monteres til slutt, etter at alle kabler er lagt.</description>
+      <g:id>146552</g:id>
+      <g:condition>new</g:condition>
+      <g:price>2490 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/0/WEB_Image%20285991893.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>SMS Smart Media Solutions</g:brand>
+      <g:product_type>Stativer &gt; Projektor takfester &gt; SMS</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Tonar Pickup 3600 C-Flip Universal pickup for platespiller.</title>
+      <link>https://njal.no/tonar/41858/tonar-pickup-3600-c-flip-universal-pickup-for-platespiller</link>
+      <description />
+      <g:id>41858</g:id>
+      <g:condition>new</g:condition>
+      <g:price>990 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/0/WEB_Image%20-474809023.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Tonar</g:brand>
+      <g:product_type>Stifter &gt; Stifter for platespillere &gt; Tonar</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Stift platespiller, Sony SONY ND 14 G</title>
+      <link>https://njal.no/tonar/44499/stift-platespiller-sony-sony-nd-14-g</link>
+      <description />
+      <g:id>44499</g:id>
+      <g:condition>new</g:condition>
+      <g:price>365 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/6/WEB_Image_44490_384179660.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Tonar</g:brand>
+      <g:product_type>Stifter &gt; Stifter for platespillere &gt; Tonar</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton Movie 135, hvit 5.1 hjemmekino</title>
+      <link>https://njal.no/canton/176190/canton-movie-135-hvit-51-hjemmekino</link>
+      <description />
+      <g:id>176190</g:id>
+      <g:condition>new</g:condition>
+      <g:price>4990 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/6/WEB_Image%20-1311941102.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Hjemmekino system 5.1 &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>16.6 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Tascam MA-8 Mikrofon Pre Amp - 8 kanals</title>
+      <link>https://njal.no/diverse/68835/tascam-ma-8-mikrofon-pre-amp-8-kanals</link>
+      <description>8 high-quality microphone
+preamps&lt;?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /&gt;
 
+8 XLR balanced microphone
+inputs
 
+Switchable 48 V phantom
+power
 
-				5 METER SUBLINK BALANSERT XLR KABEL - HVIT
-			</description>
-			<g:id>36567</g:id>
-			<g:condition>new</g:condition>
-			<g:price>625 NOK</g:price>
-			<g:availability>Out of stock</g:availability>
-			<g:image_link>https://njal.no/Media/Cache/Images/2/5/WEB_Image_36671_165059834_plid_26985.Jpeg</g:image_link>
-			<g:gtin>7330060204463</g:gtin>
-			<g:brand>Supra Cables</g:brand>
-			<g:product_type>Kabel &gt; Balansert &gt; Supra</g:product_type>
-			<g:shipping>
-				<g:price>0 NOK</g:price>
-				<g:country />
-			</g:shipping>
-		</item>
+Eight 6.3 mm direct output
+jacks
+
+55 dB Input trim control
+on each channel
+
+Ground lift switch
+
+Internal power supply (no
+adapter needed)
+
+1U rack chassis</description>
+      <g:id>68835</g:id>
+      <g:condition>new</g:condition>
+      <g:price>3990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/5/WEB_Image%20788107842.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Diverse</g:brand>
+      <g:product_type>Studio &gt; Mikrofonforsterker &gt; Tascam</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Parrot ZIK II batteri Oppladbart</title>
+      <link>https://njal.no/parrot/27032/parrot-zik-ii-batteri-oppladbart</link>
+      <description />
+      <g:id>27032</g:id>
+      <g:condition>new</g:condition>
+      <g:price>350 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/7/WEB_Image_27032_-1242006076.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Parrot</g:brand>
+      <g:product_type>Hodetelefoner &gt; Hodetelefon tilbehør &gt; Diverse</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>beyerdynamic kabel T51p Kabel uten låsepinner T 51 p</title>
+      <link>https://njal.no/beyerdynamic/67836/beyerdynamic-kabel-t51p-kabel-uten-l%c3%a5sepinner-t-51-p</link>
+      <description />
+      <g:id>67836</g:id>
+      <g:condition>new</g:condition>
+      <g:price>200 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/4/WEB_Image%20970703734.Png</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>beyerdynamic</g:brand>
+      <g:product_type>Hodetelefoner &gt; Reservedeler &gt; Beyerdynamic</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>beyerdynamic kabel T51 i Kabel uten låsepinner T 51 i</title>
+      <link>https://njal.no/beyerdynamic/67837/beyerdynamic-kabel-t51-i-kabel-uten-l%c3%a5sepinner-t-51-i</link>
+      <description />
+      <g:id>67837</g:id>
+      <g:condition>new</g:condition>
+      <g:price>200 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/5/WEB_Image%20-82482179.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>beyerdynamic</g:brand>
+      <g:product_type>Hodetelefoner &gt; Reservedeler &gt; Beyerdynamic</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton Movie 135, sort 5.1 hjemmkino</title>
+      <link>https://njal.no/canton/176188/canton-movie-135-sort-51-hjemmkino</link>
+      <description />
+      <g:id>176188</g:id>
+      <g:condition>new</g:condition>
+      <g:price>4990 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image%201919558995.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Hjemmekino system 5.1 &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>16.6 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>beyerdynamic mikrofon tilbehør MVK 86-K3 Kabel 3 pin XLR FM 3,5mm mini jack 0,35m</title>
+      <link>https://njal.no/beyerdynamic/12542/beyerdynamic-mikrofon-tilbeh%c3%b8r-mvk-86-k3-kabel-3-pin-xlr-fm-3-5mm-mini-jack-0-35m</link>
+      <description />
+      <g:id>12542</g:id>
+      <g:condition>new</g:condition>
+      <g:price>384 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/0/WEB_Image%20793370821.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>beyerdynamic</g:brand>
+      <g:product_type>Mikrofoner &gt; Mikrofon tilbehør &gt; Beyerdynamic</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>beyerdynamic mikrofon tilbehør MVK 87-K3 Kabel 3 pin XLR FM 3,5mm mini jack 2,5m</title>
+      <link>https://njal.no/beyerdynamic/12544/beyerdynamic-mikrofon-tilbeh%c3%b8r-mvk-87-k3-kabel-3-pin-xlr-fm-3-5mm-mini-jack-2-5m</link>
+      <description />
+      <g:id>12544</g:id>
+      <g:condition>new</g:condition>
+      <g:price>435 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image%2070600296.Jpeg</g:image_link>
+      <identifier_exists>no</identifier_exists>
+      <g:brand>beyerdynamic</g:brand>
+      <g:product_type>Mikrofoner &gt; Mikrofon tilbehør &gt; Beyerdynamic</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Grandview veggfeste 20 cm - Pris pr par</title>
+      <link>https://njal.no/grandview-screens/148482/grandview-veggfeste-20-cm-pris-pr-par</link>
+      <description>&lt;font face="Verdana" size="2"&gt;
+		&lt;/font&gt;
+		&lt;font face="Verdana" size="2"&gt;
+			.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+			.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
+			.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+		&lt;/font&gt;
+	
+	
+ Braketter for feste av lerret ut fra vegg, 20x20 cm lengde. Pris pr.par Maks vekt 40Kg</description>
+      <g:id>148482</g:id>
+      <g:condition>new</g:condition>
+      <g:price>390 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/6/WEB_Image_grandview_veggbraketter_1312854678_plid_27156.Jpeg</g:image_link>
+      <g:gtin>7036491484824</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Lerret tilbehør &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton PRO X.3 Outdoor Utendørshøyttalere, sort</title>
+      <link>https://njal.no/canton/174565/canton-pro-x3-outdoor-utend%c3%b8rsh%c3%b8yttalere-sort</link>
+      <description />
+      <g:id>174565</g:id>
+      <g:condition>new</g:condition>
+      <g:price>3490 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/2/WEB_Image_174565ny_189821104.Jpeg</g:image_link>
+      <g:gtin>4010243029689</g:gtin>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Canton PRO XL.3 Outdoor Utendørshøyttalere, hvit</title>
+      <link>https://njal.no/canton/174568/canton-pro-xl3-outdoor-utend%c3%b8rsh%c3%b8yttalere-hvit</link>
+      <description />
+      <g:id>174568</g:id>
+      <g:condition>new</g:condition>
+      <g:price>4990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/6/WEB_Image%20-2128748880.Jpeg</g:image_link>
+      <g:gtin>4010243029719</g:gtin>
+      <g:brand>Canton</g:brand>
+      <g:product_type>Høyttalere &gt; Installasjon &gt; Canton</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Grandview bakprojeksjonsduk 366x274 For Super Mobil 180"  366x274   4:3</title>
+      <link>https://njal.no/grandview-screens/149050/grandview-bakprojeksjonsduk-366x274-for-super-mobil-180-366x274-4-3</link>
+      <description>No description</description>
+      <g:id>149050</g:id>
+      <g:condition>new</g:condition>
+      <g:price>8250 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/WEB_Image_-image_not_set-_15259356.Jpeg</g:image_link>
+      <g:gtin>7036491490504                 </g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Lerret tilbehør &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+    </item>
+    <item>
+      <title>Grandview motorlerret 92" Innbygging i tak - med styring</title>
+      <link>https://njal.no/grandview-screens/149765/grandview-motorlerret-92-innbygging-i-tak-med-styring</link>
+      <description>Lekkert og smidig lerret fra Grandview sin Premium serie. Innfellbart for tak/himling om du ønsker å skjule lerretet. Denne serien kommer inkludert med multikontroll for all type styring. Stillegående motor - Kinoformat 16:9 - Styring via IP - 12 VOLTS trigger - RS232 for proffere installasjoner - fjernkontroll. Strømkabel sitter på venstre side sett forfra. Lengde kabel 1,7 meter. Be om teknisk tegning for installasjon.</description>
+      <g:id>149765</g:id>
+      <g:condition>new</g:condition>
+      <g:price>9990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/9/WEB_Image_grandview_innbygging_16_9_-875270999_plid_27179.Jpeg</g:image_link>
+      <g:gtin>7036491497657</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; innbygging 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>18 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview lerret motor 16:9 234x132 Lerret for innbygging i tak</title>
+      <link>https://njal.no/grandview-screens/149775/grandview-lerret-motor-16-9-234x132-lerret-for-innbygging-i-tak</link>
+      <description />
+      <g:id>149775</g:id>
+      <g:condition>new</g:condition>
+      <g:price>8330 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/1/WEB_Image_grandview_innbygging_16_9_-1922485608_plid_27181.Jpeg</g:image_link>
+      <g:gtin>7036491497756</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; innbygging 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>34 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview portabelt lerret 92" Gulvstående opptrekkslerret</title>
+      <link>https://njal.no/grandview-screens/149536/grandview-portabelt-lerret-92-gulvst%c3%a5ende-opptrekkslerret</link>
+      <description>.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+			.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
+			.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+		
+	
+	
+ 	92 tommer portabelt opptrekkslerret som er lett å frakte med seg.  Bredde sort kasse 219,2 cm  Høyde oppslått 213 cm Drop 83,5 cm Klar til bruk på få sekunder.</description>
+      <g:id>149536</g:id>
+      <g:condition>new</g:condition>
+      <g:price>4990 NOK</g:price>
+      <g:availability>Out of stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/2/3/WEB_Image_149536_1_-306216767_plid_27183.Jpeg</g:image_link>
+      <g:gtin>7036491495363</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Portabelt 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>11.8 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview Cyber 84" Elektrisk lerret med styring</title>
+      <link>https://njal.no/grandview-screens/148710/grandview-cyber-84-elektrisk-lerret-med-styring</link>
+      <description>Duken - Praktisk og solid motorisert lerret med styring fra Grandview. I Cyber serien benyttes WM5 ISF sertifiserte duker, disse er tykkere og mer slitesterke enn andre duker i Grandview seriene. I de fleste tilfeller benyttes hvite duker, men har du ikke lyskontroll i rommet du benytter, er grå duk i de fleste tilfeller bedre egnet. Dette fordi den har lavere gain, og ved lyslekasjer vil det ikke gå på bekostning av bildekvaliteten. Styring - Lerretene i Cyber serien kan styres slik at lerretet går til ønsket høyde i det du slår på projektoren, dette gjøres via 12 volt trigger, enten kablet eller trådløst. Eller via poweret om du ikke har 12 volt trigger på din projektor. For proffere installasjoner kan det også benyttes RS232 via RJ-plugg. Format - 1:1 format(kvadratisk)er et alternativ i mange tilfeller når det er eldre projektorer eller du trenger enkel justering for flere typer kildeformat. Montering - Alle våre motoriserte og manuelle lerret har medfølgende praktiske opphengsytemer for både tak og vegg. Avstander - Lurer du på størrelse og avstand, bruk denne malen: Bredde på lerretet x 2 bør være minimumsavstand. Har du et lerret på to meter bredde bør du sitte minst fire meter unna for å få oversikt. Når det gjelder maks avstand, bredde på lerretet x 5. Med et lerret på to meter kan du sitte opptil ti meter unna.</description>
+      <g:id>148710</g:id>
+      <g:condition>new</g:condition>
+      <g:price>4990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/0/WEB_Image_148718_1696138907_plid_9270.Jpeg</g:image_link>
+      <g:gtin>7036491046787</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Motorisert 1:1 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>19 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview Cyber 171x128 cm Elektrisk lerret med styring</title>
+      <link>https://njal.no/grandview-screens/148737/grandview-cyber-171x128-cm-elektrisk-lerret-med-styring</link>
+      <description>.cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+			.cs15323895{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:normal;font-style:normal;}
+			.cs2D2816FE{}
+			.cs6B91DF2{padding:0pt 5.4pt 0pt 5.4pt;border-top:1px #000000 solid;border-right:1px #000000 solid;border-bottom:1px #000000 solid;border-left:1px #000000 solid}
+			.cs2E86D3A6{text-align:center;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+			.cs2CC6577C{color:#000000;background-color:transparent;font-family:Verdana;font-size:10pt;font-weight:bold;font-style:normal;}
+			.csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+		
+	
+	
+		Moderne og elegant Motor lerret fra Grandview på 84"Benytter seg av høykvalitets matt hvit duk med minimalt av bølger. 1.0 gain med sorte kanterHvit Kasse Genialt Tak/Vegg feste så man alltid treffer stendere i veggen  Innebygd 12v trigger Innebygd 220v releerRS232 styring via RJ6 pluggIR Fjernkontroll 
+			
+				Kassemål i mmAvvik kan forekomme, be om teknisk tegningHBDInfo
+			
+				100196090</description>
+      <g:id>148737</g:id>
+      <g:condition>new</g:condition>
+      <g:price>3990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/2/WEB_Image_gw_cyber43_mo_-1604130236_plid_9272.Jpeg</g:image_link>
+      <g:gtin>7036491487436</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Motorisert 4:3 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>13.2 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview Cyber 92" Elektrisk lerret med styring</title>
+      <link>https://njal.no/grandview-screens/148793/grandview-cyber-92-elektrisk-lerret-med-styring</link>
+      <description>Duken - Praktisk og solid motorisert lerret med styring fra Grandview. I Cyber serien benyttes WM5 ISF sertifiserte duker, disse er tykkere og mer slitesterke enn andre duker i Grandview seriene. I de fleste tilfeller benyttes hvite duker, men har du ikke lyskontroll i rommet du benytter, er grå duk i de fleste tilfeller bedre egnet. Dette fordi den har lavere gain, og ved lyslekasjer vil det ikke gå på bekostning av bildekvaliteten. Styring - Lerretene i Cyber serien kan styres slik at lerretet går til ønsket høyde i det du slår på projektoren, dette gjøres via 12 volt trigger, enten kablet eller trådløst. Eller via poweret om du ikke har 12 volt trigger på din projektor. For proffere installasjoner kan det også benyttes RS232 via RJ-plugg. Format - Det mest vanlige er 16:9 (kino/film) og 16:10 (Møterom/presentasjoner). Velg det samme formatet som din projektor/kilde. 1:1 format(kvadratisk)er et alternativ i noen tilfeller. Montering - Alle våre motoriserte og manuelle lerret har medfølgende praktiske opphengsytemer for både tak og vegg. Avstander - Lurer du på størrelse og avstand, bruk denne malen: Bredde på lerretet x 2 bør være minimumsavstand. Har du et lerret på to meter bredde bør du sitte minst fire meter unna for å få oversikt. Når det gjelder maks avstand, bredde på lerretet x 5. Med et lerret på to meter kan du sitte opptil ti meter unna.</description>
+      <g:id>148793</g:id>
+      <g:condition>new</g:condition>
+      <g:price>6990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/4/WEB_Image_grandview_motorlerret_16_10_898798240_plid_9274.Jpeg</g:image_link>
+      <g:gtin>7036491487931</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Motorisert 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>16.7 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview Cyber 106" Elektrisk lerret med styring</title>
+      <link>https://njal.no/grandview-screens/148803/grandview-cyber-106-elektrisk-lerret-med-styring</link>
+      <description>Duken - Praktisk og solid motorisert lerret med styring fra Grandview. I Cyber serien benyttes WM5 ISF sertifiserte duker, disse er tykkere og mer slitesterke enn andre duker i Grandview seriene. I de fleste tilfeller benyttes hvite duker, men har du ikke lyskontroll i rommet du benytter, er grå duk i de fleste tilfeller bedre egnet. Dette fordi den har lavere gain, og ved lyslekasjer vil det ikke gå på bekostning av bildekvaliteten. Styring - Lerretene i Cyber serien kan styres slik at lerretet går til ønsket høyde i det du slår på projektoren, dette gjøres via 12 volt trigger, enten kablet eller trådløst. Eller via poweret om du ikke har 12 volt trigger på din projektor. For proffere installasjoner kan det også benyttes RS232 via RJ-plugg. Format - Det mest vanlige er 16:9 (kino/film) og 16:10 (Møterom/presentasjoner). Velg det samme formatet som din projektor/kilde. 1:1 format(kvadratisk)er et alternativ i noen tilfeller. Montering - Alle våre motoriserte og manuelle lerret har medfølgende praktiske opphengsytemer for både tak og vegg. Avstander - Lurer du på størrelse og avstand, bruk denne malen: Bredde på lerretet x 2 bør være minimumsavstand. Har du et lerret på to meter bredde bør du sitte minst fire meter unna for å få oversikt. Når det gjelder maks avstand, bredde på lerretet x 5. Med et lerret på to meter kan du sitte opptil ti meter unna.</description>
+      <g:id>148803</g:id>
+      <g:condition>new</g:condition>
+      <g:price>8490 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/6/WEB_Image_grandview_motorlerret_16_10_-113517551_plid_9276.Jpeg</g:image_link>
+      <g:gtin>7036491488037</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Motorisert 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>17.5 kg</g:shipping_weight>
+    </item>
+    <item>
+      <title>Grandview Cyber 120" Elektrisk lerret med styring</title>
+      <link>https://njal.no/grandview-screens/148813/grandview-cyber-120-elektrisk-lerret-med-styring</link>
+      <description>Duken - Praktisk og solid motorisert lerret med styring fra Grandview. I Cyber serien benyttes WM5 ISF sertifiserte duker, disse er tykkere og mer slitesterke enn andre duker i Grandview seriene. I de fleste tilfeller benyttes hvite duker, men har du ikke lyskontroll i rommet du benytter, er grå duk i de fleste tilfeller bedre egnet. Dette fordi den har lavere gain, og ved lyslekasjer vil det ikke gå på bekostning av bildekvaliteten. Styring - Lerretene i Cyber serien kan styres slik at lerretet går til ønsket høyde i det du slår på projektoren, dette gjøres via 12 volt trigger, enten kablet eller trådløst. Eller via poweret om du ikke har 12 volt trigger på din projektor. For proffere installasjoner kan det også benyttes RS232 via RJ-plugg. Format - Det mest vanlige er 16:9 (kino/film) og 16:10 (Møterom/presentasjoner). Velg det samme formatet som din projektor/kilde. 1:1 format(kvadratisk)er et alternativ i noen tilfeller. Montering - Alle våre motoriserte og manuelle lerret har medfølgende praktiske opphengsytemer for både tak og vegg. Avstander - Lurer du på størrelse og avstand, bruk denne malen: Bredde på lerretet x 2 bør være minimumsavstand. Har du et lerret på to meter bredde bør du sitte minst fire meter unna for å få oversikt. Når det gjelder maks avstand, bredde på lerretet x 5. Med et lerret på to meter kan du sitte opptil ti meter unna.</description>
+      <g:id>148813</g:id>
+      <g:condition>new</g:condition>
+      <g:price>11990 NOK</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://njal.no/Media/Cache/Images/9/8/WEB_Image_grandview_motorlerret_16_10_1287760759_plid_9278.Jpeg</g:image_link>
+      <g:gtin>7036491046824</g:gtin>
+      <g:brand>Grandview Screens</g:brand>
+      <g:product_type>Lerret &gt; Motorisert 16:9 &gt; Grandview</g:product_type>
+      <g:shipping>
+        <g:price>0 NOK</g:price>
+        <g:country />
+      </g:shipping>
+      <g:shipping_weight>18 kg</g:shipping_weight>
+    </item>
 	</channel>
 </rss>
